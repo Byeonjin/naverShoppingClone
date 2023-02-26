@@ -1,0 +1,44 @@
+.productInformationContainer {
+  padding: 1rem;
+}
+.dCRate {
+  font-size: 1.5rem;
+}
+
+.price {
+  font-size: 1rem;
+  margin-right: 0.25rem;
+  text-decoration: line-through;
+  font-weight: 700;
+}
+.priceContainer {
+  display: flex;
+
+  align-items: center;
+}
+.dCedPrice {
+  font-size: 1.375rem;
+}
+
+.priceInfo {
+  margin-top: 1rem;
+  padding-bottom: 0.75rem;
+  display: flex;
+
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid #d9d9d9;
+}
+
+img {
+  object-fit: cover;
+  width: 100%;
+  height: 11.5rem;
+  margin-bottom: 1rem;
+}
+
+h2 {
+  font-size: 1.125rem;
+  line-height: 1.3;
+  margin: 0;
+}

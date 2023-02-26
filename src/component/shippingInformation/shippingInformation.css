@@ -1,0 +1,28 @@
+.shippingInfoContainer {
+  padding: 0 1rem;
+}
+
+span {
+  font-weight: 700;
+  font-size: 0.875rem;
+  margin-right: 0.125rem;
+  line-height: 14px;
+}
+
+.splitLine {
+  border-left: 0.5rem;
+  margin-left: 0.25rem;
+  padding-left: 0.25rem;
+  border-left: 1px solid #d9d9d9;
+}
+p {
+  margin-top: 0px;
+  border-bottom: 1px solid #d9d9d9;
+  padding-bottom: 1rem;
+}
+
+.shippingInfoContainer p {
+  font-size: 0.875rem;
+  font-weight: 700;
+  margin: 0.5rem 0 0 0;
+}
